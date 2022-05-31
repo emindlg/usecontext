@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/usecontext-class/static/css/main.073c9b0a.css",
+    "main.js": "/usecontext-class/static/js/main.b95c2b46.js",
+    "index.html": "/usecontext-class/index.html",
+    "main.073c9b0a.css.map": "/usecontext-class/static/css/main.073c9b0a.css.map",
+    "main.b95c2b46.js.map": "/usecontext-class/static/js/main.b95c2b46.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b95c2b46.js"
+  ]
+}
